@@ -17,6 +17,7 @@ void setup() {
 
 // the loop routine runs over and over again forever:
 void loop() {
+  // yukurt edit
   digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(3000);               // wait for a second
   digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
